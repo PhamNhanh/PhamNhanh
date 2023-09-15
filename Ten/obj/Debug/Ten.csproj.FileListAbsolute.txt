@@ -1,0 +1,7 @@
+C:\Test\Ten\Ten\bin\Debug\Ten.exe.config
+C:\Test\Ten\Ten\bin\Debug\Ten.exe
+C:\Test\Ten\Ten\bin\Debug\Ten.pdb
+C:\Test\Ten\Ten\obj\Debug\Ten.csproj.AssemblyReference.cache
+C:\Test\Ten\Ten\obj\Debug\Ten.csproj.CoreCompileInputs.cache
+C:\Test\Ten\Ten\obj\Debug\Ten.exe
+C:\Test\Ten\Ten\obj\Debug\Ten.pdb
